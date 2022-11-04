@@ -12,9 +12,9 @@ Original file is located at
 import numpy as np
 import matplotlib.pyplot as plt
 ### Data input
-x_cent = int(input("Enter x-coordinates of the center: "))
-y_cent = int(input("Enter y-coordinates of the center: "))
-r = int(input("Enter the radius of the circle: "))
+x_cent = 0
+y_cent = 0
+r = 100
 #### Mid-Point Circle Drawing Algorithm ####
 ### Initializations
 x_quad1 = []
