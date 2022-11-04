@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1DtygnHQUAdiqh_qFOLeIKoaa_jpwJiN6
 """
 
-!pip3 install ColabTurtle
+##!pip3 install ColabTurtle
 
 import numpy as np
 import matplotlib.pyplot as plt
